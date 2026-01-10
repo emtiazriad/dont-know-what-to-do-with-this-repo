@@ -1,1 +1,1 @@
-#nothing-is-here
+#empty-repo
